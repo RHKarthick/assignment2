@@ -1,0 +1,103 @@
+.g1 {
+  position: absolute;
+  width: 292px;
+  height: 181px;
+  left: 0px;
+  top: 408px;
+}
+.content1 {
+  position: absolute;
+  width: 292px;
+  height: 211px;
+  left: 0px;
+  top: 589px;
+
+  background: #ffffff;
+  /* transform: matrix(-1, 0, 0, 1, 0, 0); */
+}
+.date1 {
+  position: absolute;
+  /* width: 100px; */
+  height: 21px;
+  left: 0px;
+  top: 28px;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 150%;
+  /* identical to box height, or 21px */
+
+  text-transform: uppercase;
+
+  color: #666666;
+}
+.typo1 {
+  position: absolute;
+  width: 244px;
+  height: 52px;
+  left: 0px;
+  top: 57px;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 130%;
+  /* or 26px */
+
+  color: #2e3057;
+}
+
+.g2 {
+  position: absolute;
+  width: 292px;
+  height: 181px;
+  left: 316px;
+  top: 408px;
+}
+.content2 {
+  position: absolute;
+  width: 292px;
+  height: 211px;
+  left: 316px;
+  top: 589px;
+
+  background: #ffffff;
+  /* transform: matrix(-1, 0, 0, 1, 0, 0); */
+}
+.g3 {
+  position: absolute;
+  width: 292px;
+  height: 181px;
+  left: 632px;
+  top: 408px;
+}
+.content3 {
+  position: absolute;
+  width: 292px;
+  height: 211px;
+  left: 632px;
+  top: 589px;
+
+  background: #ffffff;
+  /* transform: matrix(-1, 0, 0, 1, 0, 0); */
+}
+.g4 {
+  position: absolute;
+  width: 292px;
+  height: 181px;
+  left: 948px;
+  top: 408px;
+}
+.content4 {
+  position: absolute;
+  width: 292px;
+  height: 211px;
+  left: 948px;
+  top: 589px;
+
+  background: #ffffff;
+  /* transform: matrix(-1, 0, 0, 1, 0, 0); */
+}

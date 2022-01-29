@@ -1,0 +1,162 @@
+.container {
+  left: 100px;
+}
+.img1 {
+  position: absolute;
+  width: 620px;
+  height: 400px;
+  left: 0px;
+  /* top: 1053px; */
+}
+.content1 {
+  position: absolute;
+  width: 529px;
+  height: 68px;
+  left: 32px;
+  top: 300px;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 140%;
+  /* or 34px */
+
+  color: #ffffff;
+}
+.date1 {
+  position: absolute;
+  /* width: 129px; */
+  height: 27px;
+  left: 32px;
+  top: 265px;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 150%;
+  /* identical to box height, or 27px */
+
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+.content2 {
+  position: absolute;
+  width: 239px;
+  height: 155px;
+  left: 32px;
+  top: 147px;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 130%;
+  /* or 31px */
+
+  color: #2e3057;
+}
+.img2 {
+  position: absolute;
+  width: 310px;
+  height: 400px;
+  left: 620px;
+  /* top: 1053px; */
+
+  background: #ffffff;
+}
+.date2 {
+  position: absolute;
+  /* width: 129px; */
+  height: 27px;
+  left: 32px;
+  top: 40px;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 150%;
+  /* identical to box height, or 27px */
+
+  text-transform: uppercase;
+
+  color: #777777;
+}
+.readmore1 {
+  position: absolute;
+  /* width: 101px; */
+  height: 26px;
+  left: 32px;
+  top: 334px;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 130%;
+  /* identical to box height, or 26px */
+
+  color: #548be4;
+}
+.img3 {
+  position: absolute;
+  width: 310px;
+  height: 400px;
+  left: 930px;
+  /* top: 1053px; */
+
+  background: #548be4;
+}
+.content3 {
+  position: absolute;
+  width: 239px;
+  height: 155px;
+  left: 32px;
+  top: 147px;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 130%;
+  /* or 31px */
+
+  color: #ffffff;
+}
+.date3 {
+  position: absolute;
+  /* width: 129px; */
+  height: 27px;
+  left: 32px;
+  top: 40px;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 150%;
+  /* identical to box height, or 27px */
+
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+.readmore2 {
+  position: absolute;
+  /* width: 101px; */
+  height: 26px;
+  left: 32px;
+  top: 334px;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 130%;
+  /* identical to box height, or 26px */
+
+  color: #ffc123;
+}

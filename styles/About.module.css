@@ -1,0 +1,317 @@
+.container1 {
+  position: absolute;
+  width: 1440px;
+  height: 566px;
+  left: 0px;
+  top: 4389px;
+  background: linear-gradient(103.07deg, #172853 30.15%, #1999d6 90.98%);
+}
+.container2 {
+  position: absolute;
+  left: 7.78%;
+  right: 7.78%;
+  top: 17.67%;
+  bottom: 0%;
+  background: #ffffff;
+}
+.container3 {
+  position: absolute;
+  left: 112px;
+  right: 112px;
+  top: 69.61%;
+  bottom: 13.43%;
+
+  background: linear-gradient(90deg, #172853 0%, #1999d6 100%);
+}
+.securekloud1 {
+  position: absolute;
+  left: 60px;
+  /* right: 75.69%;
+top: 76.68%; */
+  bottom: 40.22px;
+}
+.typo1 {
+  position: absolute;
+  left: 506px;
+  right: 383px;
+  top: 24px;
+  bottom: 24px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 160%;
+  /* or 24px */
+
+  color: #ffffff;
+}
+.typo2 {
+  position: absolute;
+  left: 903px;
+  right: 162px;
+  top: 24px;
+  bottom: 24px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 160%;
+  /* or 24px */
+
+  color: #ffffff;
+}
+.typo3 {
+  position: absolute;
+  left: 60px;
+  right: 856px;
+  top: 68px;
+  bottom: 111px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 150%;
+  /* or 22px */
+
+  color: #555555;
+}
+.products {
+  position: absolute;
+  left: 418px;
+  right: 57.08%;
+  top: 68px;
+  bottom: 65.02%;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 150%;
+  /* identical to box height, or 30px */
+
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+
+  color: #172853;
+}
+.img1 {
+  position: absolute;
+  left: 418px;
+  right: 58.26%;
+  top: 109px;
+  bottom: 36.93%;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 160%;
+  /* or 24px */
+
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+
+  color: #333333;
+}
+.Services {
+  position: absolute;
+  left: 596px;
+  right: 535%;
+  top: 68px;
+  bottom: 65.02%;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 150%;
+  /* identical to box height, or 30px */
+
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+
+  color: #172853;
+}
+.img2 {
+  position: absolute;
+  left: 596px;
+  right: 41.74%;
+  top: 109px;
+  bottom: 42.4%;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 160%;
+  /* or 24px */
+
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+
+  color: #333333;
+}
+.Company {
+  position: absolute;
+  left: 775px;
+  right: 32.01%;
+  top: 68px;
+  bottom: 65.02%;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 150%;
+  /* identical to box height, or 30px */
+
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+
+  color: #172853;
+}
+.img3 {
+  position: absolute;
+  left: 775px;
+  right: 33.26%;
+  top: 109px;
+  bottom: 47.88%;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 160%;
+  /* or 24px */
+
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+
+  color: #333333;
+}
+.Resources {
+  position: absolute;
+  left: 952px;
+  right: 18.96%;
+  top: 68px;
+  bottom: 65.02%;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 150%;
+  /* identical to box height, or 30px */
+
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+
+  color: #172853;
+}
+.img4 {
+  position: absolute;
+  left: 952px;
+  right: 20%;
+  top: 109px;
+  bottom: 36.93%;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 160%;
+  /* or 24px */
+
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+
+  color: #333333;
+}
+.fb {
+  position: absolute;
+  left: 60px;
+  right: 86.46%;
+  top: 207px;
+  bottom: 40.46%;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 150%;
+  /* identical to box height, or 30px */
+
+  letter-spacing: 0.02em;
+
+  color: #000000;
+}
+.ln {
+  position: absolute;
+  left: 111px;
+  right: 83.26%;
+  top: 207px;
+  bottom: 40.46%;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 150%;
+  /* identical to box height, or 30px */
+
+  letter-spacing: 0.02em;
+
+  color: #000000;
+}
+.support {
+  position: absolute;
+  left: 525px;
+  right: 52.29%;
+  top: 414px;
+  bottom: 15px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 150%;
+  /* identical to box height, or 21px */
+
+  color: #555555;
+}
+.TermsnConditions {
+  position: absolute;
+  left: 615px;
+  right: 41.11%;
+  top: 414px;
+  bottom: 5.48%;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 150%;
+  /* identical to box height, or 21px */
+
+  color: #555555;
+}
+.rights {
+  position: absolute;
+  left: 776px;
+  right: 14.72%;
+  top: 414px;
+  bottom: 5.48%;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 150%;
+  /* identical to box height, or 21px */
+
+  text-align: right;
+
+  color: #555555;
+}

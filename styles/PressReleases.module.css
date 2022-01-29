@@ -1,0 +1,156 @@
+.img1 {
+  position: absolute;
+  width: 397px;
+  height: 215px;
+  left: 0px;
+  /* left: 100px;
+top: 1617px; */
+}
+.content1 {
+  position: absolute;
+  width: 397px;
+  height: 177px;
+  left: 0px;
+  top: 215px;
+  background: #ffffff;
+  /* transform: matrix(-1, 0, 0, 1, 0, 0); */
+}
+.Typo1 {
+  position: absolute;
+  width: 321px;
+  height: 78px;
+  left: 0px;
+  top: 68px;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 130%;
+  /* or 26px */
+
+  color: #2e3057;
+}
+.date1 {
+  position: absolute;
+  /* width: 100px; */
+  height: 21px;
+  /* left: 100px; */
+  top: 25px;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 150%;
+  /* identical to box height, or 21px */
+
+  text-transform: uppercase;
+
+  color: #666666;
+}
+.img2 {
+  position: absolute;
+  width: 397px;
+  height: 215px;
+  left: 421px;
+
+  /* left: 447px; */
+  /* top: 1617px; */
+}
+.content2 {
+  position: absolute;
+  width: 397px;
+  height: 177px;
+  left: 421px;
+  top: 215px;
+
+  background: #ffffff;
+  /* transform: matrix(-1, 0, 0, 1, 0, 0); */
+}
+.typo2 {
+  position: absolute;
+  width: 321px;
+  height: 78px;
+  /* left: 421px; */
+  top: 68px;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 130%;
+  /* or 26px */
+
+  color: #2e3057;
+}
+.date2 {
+  position: absolute;
+  /* width: 100px; */
+  height: 21px;
+  /* left: 421px; */
+  top: 25px;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 150%;
+  /* identical to box height, or 21px */
+
+  text-transform: uppercase;
+
+  color: #666666;
+}
+.img3 {
+  position: absolute;
+  width: 397px;
+  height: 215px;
+
+  left: 842px;
+  /* top: 1617px; */
+}
+.content3{
+  position: absolute;
+  width: 397px;
+  height: 177px;
+  left: 842px;
+  top: 215px;
+
+  background: #ffffff;
+}
+.typo3 {
+  position: absolute;
+  width: 321px;
+  height: 78px;
+  /* left: 421px; */
+  top: 68px;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 130%;
+  /* or 26px */
+
+  color: #2e3057;
+}
+
+.date3 {
+  position: absolute;
+  /* width: 100px; */
+  height: 21px;
+  /* left: 421px; */
+  top: 25px;
+
+  font-family: Bai Jamjuree;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 150%;
+  /* identical to box height, or 21px */
+
+  text-transform: uppercase;
+
+  color: #666666;
+}
